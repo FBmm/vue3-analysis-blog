@@ -43,7 +43,7 @@ module.exports = {
       {
         title: "储备知识",
         collapsable: false,
-        children: [["reserve/es6", "ES6"]],
+        children: [["reserve/ES6", "ES6"], ["reserve/TypeScript", "TypeScript"]],
       },
       {
         title: "响应式系统",
